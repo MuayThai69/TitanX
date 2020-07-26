@@ -1,2 +1,0 @@
-# TitanX
-Forked from PASUNX.
